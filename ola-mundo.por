@@ -3,6 +3,9 @@ programa
 	
 	funcao inicio()
 	{
-		escreva("Olá Mundo")
+	
+		cadeia nome = "Hannah"
+		escreva("Olá", nome)
 	}
 }
+
